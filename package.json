@@ -39,7 +39,7 @@
     "step-profiler": "~0.3.0",
     "turbo-carto": "0.16.0",
     "underscore": "~1.6.0",
-    "windshaft": "2.4.0"
+    "windshaft": "git://github.com/vovoma/Windshaft.git#master"
   },
   "devDependencies": {
     "istanbul": "~0.4.3",
